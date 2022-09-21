@@ -2,8 +2,8 @@
 ## Q1. Spring MVC 사용이유에 대해 말해주세요.
 ### A1.
 Spring MVC는 HTTP Request를 처리하는 부분인 Controller, 데이터를 처리해 정제된 데이터를 넣는 Model, 
-정제된 데이터를 활용해 사용자에게 보여지는 View에 대한 역할 분리를 잘 해놓았다. 
-Spring MVC 패턴을 사용하면 Model, View, Controller 모두를 인터페이스를 사용해 규격화해놓아 유연하고 확장성 있게 웹 어플리케이션을 설계할 수 있다.
+정제된 데이터를 활용해 사용자에게 보여지는 View에 대한 역할 분리를 잘 해놓은 프레임워크입니다.
+Spring MVC 패턴을 사용하면 Model, View, Controller 모두를 인터페이스를 사용해 규격화해놓아 유연하고 확장성 있게 웹 어플리케이션을 설계할 수 있습니다.
 
 </br>
 
@@ -12,7 +12,7 @@ Spring MVC 패턴을 사용하면 Model, View, Controller 모두를 인터페이
 - DispatcherServlet은 Spring MVC의 가장 중요한 요소로 모든 클라이언트의 요청을 가장 먼저 받아들이는 역할을 수행합니다. 
 - 즉, 사용자의 요청을 가장 먼저 받아 요청에 알맞는 Handler, Controller에 위임해주는 역할입니다. 
 
-1. 클라이언트의 요청을 dispathcer servlet이 받음
+1. 클라이언트의 요청을 dispathcer servlet이 받습니다.
 2. HandlerMapping을 통해 요청을 처리할 Controller를 검색합니다.
 3. 검색 된 Controller를 실행하여 클라이언트의 요청을 처리합니다. 
 4. Controller는 비즈니스 로직을 수행하고 , ModelAndView 객체를 리턴합니다.
