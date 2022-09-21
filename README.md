@@ -1,7 +1,7 @@
 # technical-study
 
 ### DB
-* [DBMS ACID이란](https://github.com/technical-interview-study/tech-interview-for-developer/blob/main/database/DBMS%20ACID%EC%9D%B4%EB%9E%80.md)
+* [DBMS ACID이란](https://github.com/ekgpgdi/tech-interview-for-developer/blob/main/database/DBMS%20ACID%EC%9D%B4%EB%9E%80.md)
 * [Isolation Level에 대하여](https://github.com/technical-interview-study/tech-interview-for-developer/blob/main/database/Isolation%20Level%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md)
 * [SQL vs NoSQL](https://github.com/technical-interview-study/tech-interview-for-developer/blob/main/database/SQL%20vs%20NoSQL.md)
 * [SQL과 NoSQL에 대하여](https://github.com/technical-interview-study/tech-interview-for-developer/blob/main/database/SQL%EA%B3%BC%20NoSQL%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md)
