@@ -5,6 +5,9 @@
 - Collection Framework의 구조
 ![](https://velog.velcdn.com/images/seonmikimm/post/2066bae4-808f-434c-afb4-a8d4b9079027/image.png)
 
+> ## Collection 인터페이스란?
+> - 인터페이스 List 와 Set 의 공통 부분을 모아 새로운 인터페이스인 Collection을 정의하였다.
+> - 인터페이스 List 와 Set 은 Collection 을 상속하고 있다.
 
 > ## List란? 
 - 순서가 있는 데이터의 집합으로 중복을 허용한다.
